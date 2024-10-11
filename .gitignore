@@ -1,0 +1,5 @@
+data
+virus_infection_detection_model.keras
+virus_infection_detection_model.h5
+best_model.keras
+venv/
